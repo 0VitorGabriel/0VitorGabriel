@@ -7,6 +7,7 @@
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/vitor_gabriel_hr/">Vitor Gabriel </a></li>
           <li><strong>Idade: </strong> 13 anos</li>
+          <li> "Saber muito não lhe torna inteligente. A inteligência se traduz na forma que você recolhe, julga, maneja e, sobretudo, onde e como aplica esta informação." </li>
         </ul>
         <h4 align="center"><ins>Minhas ferramentas:</ins></h4>
         <ul>
