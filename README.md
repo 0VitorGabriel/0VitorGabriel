@@ -9,13 +9,11 @@
           <li><strong>Idade: </strong> 13 anos</li>
           <li> "Saber muito não lhe torna inteligente. A inteligência se traduz na forma que você recolhe, julga, maneja e, sobretudo, onde e como aplica esta informação." </li>
         </ul>
-        <h4 align="center"><ins>Minhas ferramentas:</ins></h4>
-        <ul>
+        <h4 align="left"><ins>Minhas ferramentas:</ins></h4>
           <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
           <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
           <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-        </ul>
     </td>
   </tr>
 </table>
